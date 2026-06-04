@@ -1,0 +1,6 @@
+# include <stdio.h>
+struct territorio;
+
+char nome[30];
+cor [10];
+int tropas;
